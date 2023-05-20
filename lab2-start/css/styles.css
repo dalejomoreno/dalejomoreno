@@ -6,3 +6,8 @@ body {
 	min-width: 768px;
 	max-width: 1024px;
 }
+
+img {
+	width:40px;
+	height:40px;
+}
