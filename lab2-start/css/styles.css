@@ -7,7 +7,12 @@ body {
 	max-width: 1024px;
 }
 
-img {
+.figure {
+	width: 40px;
+	height: 40px;
+}
+
+#figure {
 	width: 40px;
 	height: 40px;
 }
