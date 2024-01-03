@@ -1,4 +1,5 @@
-![image](https://github.com/dalejomoreno/dalejomoreno/assets/120212322/7c95637f-e834-4730-b66a-52b5a6e01fc5)
+![image](https://github.com/dalejomoreno/dalejomoreno/assets/120212322/d22a32c9-9e4d-4464-98df-69bdc904a5f7)
+
 
 
 <h1 align="center">Hi 👋, I'm Diego Moreno</h1>
