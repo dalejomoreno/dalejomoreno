@@ -1,4 +1,5 @@
-![image](https://github.com/dalejomoreno/dalejomoreno/assets/120212322/d22a32c9-9e4d-4464-98df-69bdc904a5f7)
+![image](https://github.com/dalejomoreno/dalejomoreno/assets/120212322/91d886f9-45ec-461b-900c-0a5961ad7f11)
+
 
 
 
