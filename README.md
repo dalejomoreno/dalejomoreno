@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Diego Moreno</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- 🔭 I’m currently studying **computer programming**
+
+- 👯 working on personal projects **(Moving Service Business)**
+
+- 🤝 and looking for a CO-OP to put in practice my knowledge, get experience **and achieve new goals.**
+
 - 📫 How to reach me **dalejo_23@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
