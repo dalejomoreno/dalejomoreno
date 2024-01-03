@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Moreno</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning different languages such as **HTML, CSS, Java, JavaScript and Cloud Computing.**
-
 - 📫 How to reach me **dalejo_23@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
