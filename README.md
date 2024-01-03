@@ -1,7 +1,10 @@
+![image](https://github.com/dalejomoreno/dalejomoreno/assets/120212322/7c95637f-e834-4730-b66a-52b5a6e01fc5)
+
+
 <h1 align="center">Hi 👋, I'm Diego Moreno</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently studying Computer Programming and working on personal projects (Moving Service Business). I am looking for a CO-OP to put in practice my knowledge, get experience and achieve new goals **.**
+- 🔭 I am an Industrial Engineer with over 10 years of experience in production and retail companies. Currently, I am pursuing studies in Computer Programming and actively involved in personal projects, including a Moving Service Business and the development of web pages. I am seeking a CO-OP opportunity to apply my knowledge, gain valuable experience, and achieve new goals. **.**
 
 - 📫 How to reach me **dalejo_23@hotmail.com**
 
