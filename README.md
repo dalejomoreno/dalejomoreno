@@ -1,12 +1,9 @@
 ![image](https://github.com/dalejomoreno/dalejomoreno/assets/120212322/91d886f9-45ec-461b-900c-0a5961ad7f11)
 
+<h1 align="center">Hi 👋, Thanks you for visiting my profile </h1>
+<h3 align="center">I'm a passionate frontend and backend developer student</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Diego Moreno</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-- 🔭 I am an Industrial Engineer with over 10 years of experience in production and retail companies. Currently, I am pursuing studies in Computer Programming and actively involved in personal projects, including a Moving Service Business and the development of web pages. I am seeking a CO-OP opportunity to apply my knowledge, gain valuable experience, and achieve new goals. **.**
+- 🔭 About my professional history, I am an Industrial Engineer with over 10 years of experience in production and retail companies. Currently, I am pursuing studies in Computer Programming and actively involved in personal projects, including a Moving Service Business and the development of web pages. I am seeking a CO-OP opportunity to apply my knowledge, gain valuable experience, and achieve new goals. **.**
 
 - 📫 How to reach me **dalejo_23@hotmail.com**
 
